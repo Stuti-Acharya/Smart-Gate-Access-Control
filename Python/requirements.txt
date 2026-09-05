@@ -1,0 +1,9 @@
+opencv-python
+easyocr
+numpy
+pandas
+openpyxl
+pyserial
+Pillow
+torch
+torchvision
